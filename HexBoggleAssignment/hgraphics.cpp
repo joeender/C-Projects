@@ -136,7 +136,9 @@ void HighlightHex(int row, int col, bool flag)
 
 void RecordNewWord(string word, playerT player)
 {
-    int row, col, nColumns;
+    int row;
+    int col;
+    int nColumns;
     double x;
 
     switch (player) {
