@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1359567804 source:c:\users\cschatz\desktop\plainproject-v2.5.3-codeblocks\main.cpp
+	"lpclib.h"
+
+1358979284 c:\users\cschatz\desktop\plainproject-v2.5.3-codeblocks\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1408485719 source:c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program\main.cpp
+	"lpclib.h"
+	"vector.h"
+
+1358979286 c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program\private\vector.h
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program\private\vector.cpp
+
+1408488796 source:c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program2\main.cpp
+	"lpclib.h"
+	"vector.h"
+
+1358979286 c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program2\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program2\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program2\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program2\private\vector.h
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\day 0 program2\private\vector.cpp
+
+1412992898 source:c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\main.cpp
+	"lpclib.h"
+	"vector.h"
+	"solvers.h"
+
+1358979286 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\private\vector.h
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\private\vector.cpp
+
+1381518108 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\solvers.h
+	"domino.h"
+	"sudoku.h"
+
+1381520308 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\domino.h
+	"lpclib.h"
+
+1412891638 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\sudoku.h
+	"lpclib.h"
+	"grid.h"
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\grid.h
+	"foreach.h"
+	"private/grid.h"
+	"private/grid.cpp"
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\private\grid.h
+
+1351108638 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\private\grid.cpp
+
+1381520322 source:c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\domino.cpp
+	"domino.h"
+
+1412965276 source:c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\solvers.cpp
+	"lpclib.h"
+	"vector.h"
+	"domino.h"
+	"sudoku.h"
+
+1412914999 source:c:\users\jialiang zhong\google drive\school\2014 fall\assignment 7\sudoku.cpp
+	"sudoku.h"
+	"vector.h"
+	<cstdarg>
+	<cmath>
+
+1381523922 source:c:\users\jialiang\google drive\school\2014 fall\assignment 7\domino.cpp
+	"domino.h"
+
+1381523908 c:\users\jialiang\google drive\school\2014 fall\assignment 7\domino.h
+	"lpclib.h"
+
+1358979286 c:\users\jialiang\google drive\school\2014 fall\assignment 7\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1413322371 source:c:\users\jialiang\google drive\school\2014 fall\assignment 7\main.cpp
+	"lpclib.h"
+	"vector.h"
+	"solvers.h"
+
+1351112238 c:\users\jialiang\google drive\school\2014 fall\assignment 7\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1351112238 c:\users\jialiang\google drive\school\2014 fall\assignment 7\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1351112238 c:\users\jialiang\google drive\school\2014 fall\assignment 7\private\vector.h
+
+1351112238 c:\users\jialiang\google drive\school\2014 fall\assignment 7\private\vector.cpp
+
+1381521708 c:\users\jialiang\google drive\school\2014 fall\assignment 7\solvers.h
+	"domino.h"
+	"sudoku.h"
+
+1412895238 c:\users\jialiang\google drive\school\2014 fall\assignment 7\sudoku.h
+	"lpclib.h"
+	"grid.h"
+
+1351112238 c:\users\jialiang\google drive\school\2014 fall\assignment 7\grid.h
+	"foreach.h"
+	"private/grid.h"
+	"private/grid.cpp"
+
+1351112238 c:\users\jialiang\google drive\school\2014 fall\assignment 7\private\grid.h
+
+1351112238 c:\users\jialiang\google drive\school\2014 fall\assignment 7\private\grid.cpp
+
+1412968876 source:c:\users\jialiang\google drive\school\2014 fall\assignment 7\solvers.cpp
+	"lpclib.h"
+	"vector.h"
+	"domino.h"
+	"sudoku.h"
+
+1412918599 source:c:\users\jialiang\google drive\school\2014 fall\assignment 7\sudoku.cpp
+	"sudoku.h"
+	"vector.h"
+	<cstdarg>
+	<cmath>
+

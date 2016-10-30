@@ -1,0 +1,12 @@
+Input file name: maze9-7.txt
+Output file name: maze9-7output.txt
+
+##*****
+*#    *
+*#*** *
+*#* * *
+*#* * *
+*#*   *
+*#*****
+*#####*
+*****##

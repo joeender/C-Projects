@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1386615768 source:c:\users\jialiang zhong\google drive\school\2014 fall\assignment 8\hgraphics.cpp
+	"hgraphics.h"
+	"lpclib.h"
+	"vector.h"
+
+1386615768 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 8\hgraphics.h
+	<string>
+
+1386615768 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 8\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1386615768 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 8\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1386615766 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 8\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1386615766 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 8\private\vector.h
+
+1386615766 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 8\private\vector.cpp
+
+1413583178 source:c:\users\jialiang zhong\google drive\school\2014 fall\assignment 8\main.cpp
+	"lpclib.h"
+	"hgraphics.h"
+	"vector.h"
+	"lexicon.h"
+
+1386615768 c:\users\jialiang zhong\google drive\school\2014 fall\assignment 8\lexicon.h
+	<string>
+	<set>
+	"lpclib.h"
+	<cctype>
+
+1477848952 source:c:\users\jialiang\google drive\school\2014 fall\assignment 8\hgraphics.cpp
+	"hgraphics.h"
+	"lpclib.h"
+	"vector.h"
+
+1386615768 c:\users\jialiang\google drive\school\2014 fall\assignment 8\hgraphics.h
+	<string>
+
+1386615768 c:\users\jialiang\google drive\school\2014 fall\assignment 8\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1386615768 c:\users\jialiang\google drive\school\2014 fall\assignment 8\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1386615766 c:\users\jialiang\google drive\school\2014 fall\assignment 8\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1386615766 c:\users\jialiang\google drive\school\2014 fall\assignment 8\private\vector.h
+
+1386615766 c:\users\jialiang\google drive\school\2014 fall\assignment 8\private\vector.cpp
+
+1413586778 source:c:\users\jialiang\google drive\school\2014 fall\assignment 8\main.cpp
+	"lpclib.h"
+	"hgraphics.h"
+	"vector.h"
+	"lexicon.h"
+
+1386615768 c:\users\jialiang\google drive\school\2014 fall\assignment 8\lexicon.h
+	<string>
+	<set>
+	"lpclib.h"
+	<cctype>
+
